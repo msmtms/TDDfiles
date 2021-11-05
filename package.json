@@ -1,0 +1,21 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "TDD Intro",
+  "main": "alphabetWar/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "msmtms",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/plugin-syntax-throw-expressions": "^7.14.5",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/runtime": "^7.15.4",
+    "jest": "^27.3.1",
+    "nock": "^13.1.4",
+    "react-testing-library": "^8.0.1",
+    "testing-library": "0.0.2"
+  }
+}
